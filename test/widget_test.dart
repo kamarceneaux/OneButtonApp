@@ -3,7 +3,6 @@
 // Verifies the button renders and that tapping it does not throw or change
 // anything on screen.
 
-import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:one_button_app/main.dart';
